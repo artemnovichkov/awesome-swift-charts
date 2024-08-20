@@ -37,8 +37,12 @@
 - [Area chart with a dimming layer up to the current point in time](https://nilcoalescing.com/blog/AreaChartWithADimmingLayer)
 - [Show chart annotations on hover in Swift Charts](https://nilcoalescing.com/blog/ChartAnnotationsOnHover)
 
+### GPTs
+
+- [Apple Swift Charts Complete Code Expert](https://chatgpt.com/g/g-8U1iB3EIq-apple-swift-charts-complete-code-expert)
+
 ### Examples
 
-[Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
-[Visualizing your app’s data](https://developer.apple.com/documentation/charts/visualizing_your_app_s_data)
+- [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
+- [Visualizing your app’s data](https://developer.apple.com/documentation/charts/visualizing_your_app_s_data)
 
