@@ -46,6 +46,7 @@
 ### GPTs
 
 - [Apple Swift Charts Complete Code Expert](https://chatgpt.com/g/g-8U1iB3EIq-apple-swift-charts-complete-code-expert)
+- [ChartsGPT](https://chatgpt.com/g/g-uaZkmxVHt-chartsgpt)
 
 ### Examples
 
