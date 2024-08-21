@@ -1,5 +1,7 @@
 # Awesome Swift Charts
 
+![FrameworkOverview@2x](https://github.com/user-attachments/assets/eaa01797-e73c-4bf8-bf3e-657f2c042f2a)
+
 ### WWDC22
 
 - [Hello Swift Charts](https://developer.apple.com/videos/play/wwdc2022/10136/)
