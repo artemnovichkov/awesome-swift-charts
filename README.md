@@ -22,6 +22,7 @@
 
 ### Articles
 
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/charts)
 - [Mastering charts in SwiftUI. Pie and Donut charts.](https://swiftwithmajid.com/2023/09/26/mastering-charts-in-swiftui-pie-and-donut-charts/)
 - [Mastering charts in SwiftUI. Scrolling.](https://swiftwithmajid.com/2023/07/25/mastering-charts-in-swiftui-scrolling/)
 - [Mastering charts in SwiftUI. Selection.](https://swiftwithmajid.com/2023/07/18/mastering-charts-in-swiftui-selection/)
