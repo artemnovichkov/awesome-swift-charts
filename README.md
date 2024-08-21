@@ -15,6 +15,11 @@
 
 - [Swift Charts: Vectorized and function plots](https://developer.apple.com/videos/play/wwdc2024/10155/)
 
+### Videos
+
+- [Swift Charts - Beyond the basics](https://www.youtube.com/watch?v=r22o9ZupNVk)
+- [Swift Charts with WeatherKit](https://www.youtube.com/watch?v=Yczul-7R9-Q)
+
 ### Articles
 
 - [Mastering charts in SwiftUI. Pie and Donut charts.](https://swiftwithmajid.com/2023/09/26/mastering-charts-in-swiftui-pie-and-donut-charts/)
