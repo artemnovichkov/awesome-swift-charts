@@ -20,7 +20,7 @@
 ### Videos
 
 - [Swift Charts - Beyond the basics](https://www.youtube.com/watch?v=r22o9ZupNVk)
-- [Swift Charts with WeatherKit](https://www.youtube.com/watch?v=Yczul-7R9-Q)
+- [How FAST is Swift Charts? Can it handle a sound visualizer? - SwiftUI - iOS 16](https://www.youtube.com/watch?v=8kX1CX-ujlA)
 
 ### Articles
 
@@ -52,6 +52,7 @@
 
 ### Examples
 
-- [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
 - [Visualizing your app’s data](https://developer.apple.com/documentation/charts/visualizing_your_app_s_data)
+- [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
+- [BookstoreStategist - SwiftCharts Demo Project](https://github.com/gahntpo/BookstoreStategist)
 
