@@ -55,4 +55,5 @@
 - [Visualizing your app’s data](https://developer.apple.com/documentation/charts/visualizing_your_app_s_data)
 - [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
 - [BookstoreStategist - SwiftCharts Demo Project](https://github.com/gahntpo/BookstoreStategist)
+- [Reproducing some D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 
