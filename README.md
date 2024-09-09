@@ -52,6 +52,7 @@
 ### Examples
 
 - [Visualizing your app’s data](https://developer.apple.com/documentation/charts/visualizing_your_app_s_data)
+- [Creating a data visualization dashboard with Swift Charts](https://developer.apple.com/documentation/Charts/creating-a-data-visualization-dashboard-with-swift-charts)
 - [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
 - [BookstoreStategist - SwiftCharts Demo Project](https://github.com/gahntpo/BookstoreStategist)
 - [Reproducing some D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
