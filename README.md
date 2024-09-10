@@ -39,7 +39,6 @@
 - [Ridgeline plot with Swift Charts](https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts)
 - [Use SwiftUI views as points in scatter plot](https://nilcoalescing.com/blog/ScatterPlotWithCustomViews)
 - [Plotting data distributions with Swift Charts](https://nilcoalescing.com/blog/PlottingDataDistributionsWithSwiftCharts)
-- [Align y-axis to leading edge in Swift Charts](https://nilcoalescing.com/blog/AlignYAxisToLeadingEdgeInSwiftCharts)
 - [Using Measurements from Foundation for values in Swift Charts](https://nilcoalescing.com/blog/UsingMeasurementsFromFoundationAsValuesInSwiftCharts)
 - [Fill bar marks with gradient in Swift Charts](https://nilcoalescing.com/blog/FillBarMarksWithGradient)
 - [Area chart with a dimming layer up to the current point in time](https://nilcoalescing.com/blog/AreaChartWithADimmingLayer)
