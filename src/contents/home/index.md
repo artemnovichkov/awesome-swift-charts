@@ -5,7 +5,7 @@ description: "A hand-curated list of Swift Charts resources."
 
 # Awesome Swift Charts
 
-![SwiftCharts](/images/charts.png)
+![SwiftCharts](/awesome-swift-charts/images/charts.png)
 
 ### WWDC22
 
