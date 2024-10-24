@@ -5,7 +5,7 @@ description: "A hand-curated list of Swift Charts resources."
 
 # Awesome Swift Charts
 
-![FrameworkOverview@2x](https://github.com/user-attachments/assets/eaa01797-e73c-4bf8-bf3e-657f2c042f2a)
+![SwiftCharts](/images/charts.png)
 
 ### WWDC22
 
