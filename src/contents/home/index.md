@@ -5,6 +5,8 @@ description: "A hand-curated list of Swift Charts resources."
 
 # Awesome Swift Charts
 
+A hand-curated list of [Swift Charts](https://developer.apple.com/documentation/charts) resources. Feel free to contribute!
+
 ![SwiftCharts](/awesome-swift-charts/images/charts.png)
 
 ### WWDC22

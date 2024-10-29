@@ -1,21 +1,28 @@
-header, footer, .page, img {
+header,
+footer,
+.page,
+img {
     max-width: 800px;
     margin: 0 auto;
 }
+
 header {
     text-align: center;
     /* border-bottom: 1px dotted black; */
     padding-bottom: 16px;
 }
+
 footer {
     text-align: center;
     border-top: 1px dotted black;
     padding-top: 16px;
 }
+
 .page {
     padding-top: 16px;
     padding-bottom: 16px;
 }
+
 header #logo img {
     width: 128px;
 }
@@ -36,5 +43,37 @@ a:hover {
 }
 
 ul li {
-    margin-bottom: 10px; /* Добавляем отступ между элементами списка */
+    margin-bottom: 10px;
+}
+
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+
+    0%,
+    100% {
+        transform: rotate(0)
+    }
+
+    20%,
+    60% {
+        transform: rotate(-25deg)
+    }
+
+    40%,
+    80% {
+        transform: rotate(10deg)
+    }
+}
+
+@media (max-width:500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
 }
