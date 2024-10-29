@@ -6,6 +6,11 @@ img {
     margin: 0 auto;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 header {
     text-align: center;
     padding-bottom: 16px;
