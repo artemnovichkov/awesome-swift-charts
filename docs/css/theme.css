@@ -4,11 +4,7 @@ footer,
 img {
     max-width: 800px;
     margin: 0 auto;
-}
-
-img {
     width: 100%;
-    height: auto;
 }
 
 header {
