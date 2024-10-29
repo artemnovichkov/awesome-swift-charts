@@ -26,8 +26,9 @@ A hand-curated list of [Swift Charts](https://developer.apple.com/documentation/
 
 ### Videos
 
-- [Swift Charts - Beyond the basics](https://www.youtube.com/watch?v=r22o9ZupNVk)
-- [How FAST is Swift Charts? Can it handle a sound visualizer? - SwiftUI - iOS 16](https://www.youtube.com/watch?v=8kX1CX-ujlA)
+@Youtube(code: r22o9ZupNVk)
+&nbsp;
+@Youtube(code: 8kX1CX-ujlA)
 
 ### Articles
 

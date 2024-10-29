@@ -8,13 +8,11 @@ img {
 
 header {
     text-align: center;
-    /* border-bottom: 1px dotted black; */
     padding-bottom: 16px;
 }
 
 footer {
     text-align: center;
-    border-top: 1px dotted black;
     padding-top: 16px;
 }
 

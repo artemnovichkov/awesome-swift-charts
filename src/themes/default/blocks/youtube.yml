@@ -1,0 +1,21 @@
+name: youtube
+params:
+  - label: code
+    default: ""
+  - label: height
+    default: "400"
+  - label: target
+    default: "_blank"
+#output: "<iframe width="100%" height="{{height}}" src="https://www.youtube.com/embed/{{code}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" 
+tag: iframe
+attributes:
+  - name: width
+    value: "100%"
+  - name: height
+    value: "{{height}}"
+  - name: src
+    value: "https://www.youtube.com/embed/{{code}}"
+  - name: frameborder
+    value: "0"
+  - name: allow
+    value: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
