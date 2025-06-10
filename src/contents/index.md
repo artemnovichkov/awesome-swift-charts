@@ -26,6 +26,10 @@ A hand-curated list of [Swift Charts](https://developer.apple.com/documentation/
 
 - [Swift Charts: Vectorized and function plots](https://developer.apple.com/videos/play/wwdc2024/10155/)
 
+### WWDC25
+
+- [Bring Swift Charts to the third dimension](https://developer.apple.com/videos/play/wwdc2025/313)
+
 ### Videos
 
 @Youtube(code: "r22o9ZupNVk")
