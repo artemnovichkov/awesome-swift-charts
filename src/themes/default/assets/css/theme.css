@@ -1,21 +1,78 @@
-header, footer, .page {
+header,
+footer,
+.page,
+img {
     max-width: 800px;
     margin: 0 auto;
+    width: 100%;
 }
+
 header {
     text-align: center;
-    border-bottom: 1px dotted black;
     padding-bottom: 16px;
 }
+
 footer {
     text-align: center;
-    border-top: 1px dotted black;
     padding-top: 16px;
 }
+
 .page {
     padding-top: 16px;
     padding-bottom: 16px;
 }
+
 header #logo img {
-    width: 64px;
+    width: 128px;
+}
+
+html {
+    background-color: rgb(13, 17, 23);
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+a {
+    color: rgb(88, 166, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+
+    0%,
+    100% {
+        transform: rotate(0)
+    }
+
+    20%,
+    60% {
+        transform: rotate(-25deg)
+    }
+
+    40%,
+    80% {
+        transform: rotate(10deg)
+    }
+}
+
+@media (max-width:500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
 }
