@@ -1,6 +1,6 @@
 # Awesome Swift Charts
 
-![SwiftCharts](./src/contents/assets/images/charts.png)
+![SwiftCharts](./src/assets/images/charts.png)
 
 ### WWDC22
 
