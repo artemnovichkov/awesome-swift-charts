@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html {{#site.language}}lang="{{.}}"{{/site.language}}>
+<html {{#site.locale}}lang="{{.}}"{{/site.locale}}>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,21 +10,21 @@
     <meta property="og:url" content="{{page.permalink}}">
     <meta property="og:title" content="{{page.title}} - {{site.title}}">
     <meta property="og:description" content="{{page.description}}">
-    {{#page.imageUrl}}<meta property="og:image" content="{{.}}" />{{/page.imageUrl}}
+    {{#page.imageUrl}}<meta property="og:image" content="{{.}}">{{/page.imageUrl}}
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{page.title}} - {{site.title}}">
     <meta name="twitter:description" content="{{page.description}}">
     {{#page.imageUrl}}<meta name="twitter:image" content="{{.}}">{{/page.imageUrl}}
     
-    <link rel="stylesheet" href="/css/theme.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="{{site.baseUrl}}/css/theme.css">
+    <link rel="stylesheet" href="{{site.baseUrl}}/css/style.css">
     {{#page.css}}<link rel="stylesheet" href="{{.}}">{{/page.css}}
 
     <meta name="google-site-verification" content="BbVI6OBRFQqWkAWdfZIUj5ecQRjj4DHLaJ7v0Iyp4jQ" />
 </head>
 
-<body>        
+<body>
     <main>
     {{$main}}{{/main}}
     </main>

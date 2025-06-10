@@ -1,0 +1,24 @@
+id: sitemap
+definesType: true
+contentTypes: 
+    include:
+        - sitemap
+
+queries:
+    pages:
+        contentType: page
+        scope: list
+        orderBy:
+            - key: lastUpdate
+              direction: desc
+
+engine: 
+    id: mustache
+    options:
+        contentTypes: 
+            sitemap:
+                template: "sitemap"
+output:
+    path: ""
+    file: sitemap
+    ext: xml

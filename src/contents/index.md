@@ -1,6 +1,8 @@
 ---
+slug: ""
 title: "Awesome Swift Charts"
 description: "A hand-curated list of Swift Charts resources."
+template: pages.home
 ---
 
 # Awesome Swift Charts
@@ -26,9 +28,9 @@ A hand-curated list of [Swift Charts](https://developer.apple.com/documentation/
 
 ### Videos
 
-@Youtube(code: r22o9ZupNVk)
+@Youtube(code: "r22o9ZupNVk")
 &nbsp;
-@Youtube(code: 8kX1CX-ujlA)
+@Youtube(code: "8kX1CX-ujlA")
 
 ### Articles
 
@@ -63,4 +65,3 @@ A hand-curated list of [Swift Charts](https://developer.apple.com/documentation/
 - [Swift Charts Examples](https://github.com/jordibruin/Swift-Charts-Examples)
 - [BookstoreStategist - SwiftCharts Demo Project](https://github.com/gahntpo/BookstoreStategist)
 - [Reproducing some D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
-

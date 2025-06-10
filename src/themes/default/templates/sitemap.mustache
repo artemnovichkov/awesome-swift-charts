@@ -3,10 +3,10 @@
     {{/empty(urls)}}
     {{^empty(urls)}}
     <url>
-    {{#urls}}
-        <loc>{{location}}</loc>
-        <lastmod>{{lastModification}}</lastmod>
-    {{/urls}}
+        {{#context.pages}}
+            <loc>{{permalink}}</loc>
+            <lastmod>{{lastUpdate.formats.sitemap}}</lastmod>
+        {{/context.pages}}
     </url>
     {{/empty(urls)}}
 </urlset>

@@ -1,0 +1,26 @@
+id: html
+
+scopes:
+
+queries: 
+
+dataTypes:
+
+contentTypes: 
+    include:
+        - page
+
+iterators:
+
+transformers:
+
+engine: 
+    id: mustache
+    options:
+        contentTypes: 
+            page:
+                template: "pages.default"
+output:
+    path: "{{slug}}"
+    file: index
+    ext: html

@@ -1,5 +1,5 @@
 name: youtube
-params:
+parameters:
   - label: code
     default: ""
   - label: height
