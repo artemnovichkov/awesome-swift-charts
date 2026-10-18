@@ -19,3 +19,6 @@ png:
 
 jpg:
 	find ./src/* -type f -name '*.jpg' | xargs jpegoptim --all-progressive '*.jpg'
+
+previews:
+	python3 scripts/fetch_previews.py

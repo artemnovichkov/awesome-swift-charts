@@ -1,17 +1,12 @@
-<header>
-    <a id="logo" href="/">
-        <img
-            src="/images/logo.png"
-            alt="Logo of {{site.title}}"
-            title="{{site.title}}"
-        >
-    </a>
-
-    <nav>
-        <div class="navigation">
-            {{#navigation}}
-            <a href="{{url}}"{{#class}} class="{{.}}"{{/class}}>{{label}}</a>
-            {{/navigation}}
-        </div>
-    </nav>
+<header class="localnav" id="localnav">
+    <div class="localnav-inner">
+        <a class="localnav-title" href="{{site.baseUrl}}/">{{site.title}}</a>
+        <button class="localnav-toggle" type="button" aria-expanded="false" aria-controls="localnav-menu" aria-label="Sections">
+            <svg viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5l5 5 5-5"/></svg>
+        </button>
+        <nav class="localnav-menu" id="localnav-menu" aria-label="Sections">
+            <ul class="localnav-links"></ul>
+        </nav>
+        <a class="localnav-cta" href="https://github.com/artemnovichkov/awesome-swift-charts" target="_blank" rel="noopener">Contribute</a>
+    </div>
 </header>

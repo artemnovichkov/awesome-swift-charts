@@ -3,34 +3,41 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <title>{{page.title}} - {{site.title}}</title>
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+
+    <title>{{page.title}}</title>
     <meta name="description" content="{{page.description}}">
-    
+
     <meta property="og:url" content="{{page.permalink}}">
-    <meta property="og:title" content="{{page.title}} - {{site.title}}">
+    <meta property="og:title" content="{{page.title}}">
     <meta property="og:description" content="{{page.description}}">
-    {{#page.imageUrl}}<meta property="og:image" content="{{.}}">{{/page.imageUrl}}
+    <meta property="og:image" content="{{site.baseUrl}}/images/charts.png">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{page.title}} - {{site.title}}">
+    <meta name="twitter:title" content="{{page.title}}">
     <meta name="twitter:description" content="{{page.description}}">
-    {{#page.imageUrl}}<meta name="twitter:image" content="{{.}}">{{/page.imageUrl}}
-    
+    <meta name="twitter:image" content="{{site.baseUrl}}/images/charts.png">
+
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230071e3'/><rect x='7' y='16' width='4' height='9' rx='1.5' fill='white'/><rect x='14' y='8' width='4' height='17' rx='1.5' fill='white'/><rect x='21' y='12' width='4' height='13' rx='1.5' fill='white'/></svg>">
     <link rel="stylesheet" href="{{site.baseUrl}}/css/theme.css">
-    <link rel="stylesheet" href="{{site.baseUrl}}/css/style.css">
     {{#page.css}}<link rel="stylesheet" href="{{.}}">{{/page.css}}
 
     <meta name="google-site-verification" content="BbVI6OBRFQqWkAWdfZIUj5ecQRjj4DHLaJ7v0Iyp4jQ" />
 </head>
 
 <body>
+    {{> partials.header}}
+
     <main>
     {{$main}}{{/main}}
     </main>
 
     {{> partials.footer}}
-    
+
+    <script src="{{site.baseUrl}}/js/previews.js"></script>
+    <script src="{{site.baseUrl}}/js/site.js"></script>
     {{#page.js}}<script src="{{.}}" async></script>{{/page.js}}
 </body>
 </html>

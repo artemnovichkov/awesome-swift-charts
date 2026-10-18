@@ -1,0 +1,20 @@
+window.PREVIEWS = {
+  "https://books.nilcoalescing.com/swift-charts-beyond-the-basics": "https://books.nilcoalescing.com/public/Books/swift-charts-beyond-the-basics/book-banner.HmWdeIK86NhInPYgeSNPMxct1Wf7E0zDlkjY0yin5bE.png",
+  "https://developer.apple.com/videos/play/wwdc2025/313": "https://devimages-cdn.apple.com/wwdc-services/images/3055294D-836B-4513-B7B0-0BC5666246B0/9954/9954_wide_250x141_2x.jpg",
+  "https://developer.apple.com/videos/play/wwdc2024/10155/": "https://devimages-cdn.apple.com/wwdc-services/images/C03E6E6D-A32A-41D0-9E50-C3C6059820AA/9283/9283_wide_250x141_2x.jpg",
+  "https://developer.apple.com/videos/play/wwdc2023/10037/": "https://devimages-cdn.apple.com/wwdc-services/images/D35E0E85-CCB6-41A1-B227-7995ECD83ED5/8065/8065_wide_250x141_2x.jpg",
+  "https://developer.apple.com/videos/play/wwdc2022/10136/": "https://devimages-cdn.apple.com/wwdc-services/images/124/6633/6633_wide_250x141_2x.jpg",
+  "https://developer.apple.com/videos/play/wwdc2022/110340/": "https://devimages-cdn.apple.com/wwdc-services/images/124/6692/6692_wide_250x141_2x.jpg",
+  "https://developer.apple.com/videos/play/wwdc2022/10137/": "https://devimages-cdn.apple.com/wwdc-services/images/124/6634/6634_wide_250x141_2x.jpg",
+  "https://developer.apple.com/videos/play/wwdc2022/110342/": "https://devimages-cdn.apple.com/wwdc-services/images/124/6694/6694_wide_250x141_2x.jpg",
+  "https://nilcoalescing.com/blog/VisualisingDataWithAHexagonalHeatmapInSwiftCharts/": "https://nilcoalescing.com/static/blog/VisualisingDataWithAHexagonalHeatmapInSwiftCharts/banner.wnsvCZEeyDV1MU_nSoxjO1OyPJ7lF3sylpomlepO0ko.png",
+  "https://nilcoalescing.com/blog/BuildingAnAccessibleCalendarInSwiftCharts/": "https://nilcoalescing.com/static/blog/BuildingAnAccessibleCalendarInSwiftCharts/banner.U3FcrD7g4Q--7UQUVC5AmRLl4gkVW3IFJw8lR_vYrn4.png",
+  "https://nilcoalescing.com/blog/BuildAndStyleAChartWithSwiftChartsFramework": "https://nilcoalescing.com/static/blog/BuildAndStyleAChartWithSwiftChartsFramework/banner.93mpvHWXKwT5mK8jgx7ODOXhZyTPmqD2ZBGjFj84g5s.png",
+  "https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts": "https://nilcoalescing.com/static/blog/RidgePlotWithSwiftCharts/banner.SwxH8gtxIn4On6uapUqGgYyU898ebVLmWUMZuBepZEQ.png",
+  "https://nilcoalescing.com/blog/ScatterPlotWithCustomViews": "https://nilcoalescing.com/static/blog/ScatterPlotWithCustomViews/banner.RGx_jZSHUAwHuv_ypSYo67hUlhfvn-MDtJ8ABm4ynzc.png",
+  "https://nilcoalescing.com/blog/PlottingDataDistributionsWithSwiftCharts": "https://nilcoalescing.com/static/blog/PlottingDataDistributionsWithSwiftCharts/banner.Beefzb2h7QUkU3ZmbtwsC0yvgM69669rxoKrAo1qIxI.png",
+  "https://nilcoalescing.com/blog/UsingMeasurementsFromFoundationAsValuesInSwiftCharts": "https://nilcoalescing.com/static/blog/UsingMeasurementsFromFoundationAsValuesInSwiftCharts/banner.MzUooHKl-_QQvSRV1g1ekNfNUykNoiWBU6xtQTHPHw8.png",
+  "https://nilcoalescing.com/blog/FillBarMarksWithGradient": "https://nilcoalescing.com/static/blog/FillBarMarksWithGradient/banner.3eypI4CLWdzr8uu5v9Xdx0iHN-j0zcZ9VqQ3uXpL8F8.png",
+  "https://nilcoalescing.com/blog/AreaChartWithADimmingLayer": "https://nilcoalescing.com/static/blog/AreaChartWithADimmingLayer/banner.ZNa6p_AymziIiXl6Gom42IMcZGBLjtEujTvTtdHVGIc.png",
+  "https://nilcoalescing.com/blog/ChartAnnotationsOnHover": "https://nilcoalescing.com/static/blog/ChartAnnotationsOnHover/banner.Or-lTPMfnH1oGCkryPhDiMofZQ8UuB77ZLvDxtEJa4U.png"
+};

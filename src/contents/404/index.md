@@ -9,4 +9,4 @@ template: "pages.404"
 
 This page does not exists.
 
-[Home](/)
+[Back to the list](/awesome-swift-charts/)
