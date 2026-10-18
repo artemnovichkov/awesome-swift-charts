@@ -1,19 +1,30 @@
+<div align="center">
+
 # Awesome Swift Charts
 
-From first bar to 3D plot.
+**From first bar to 3D plot.**
 
-Hand-picked talks, articles, books and sample code for [Apple’s charting framework](https://developer.apple.com/documentation/charts).
+Hand-picked talks, articles, books and sample code for [Swift Charts](https://developer.apple.com/documentation/charts), Apple’s charting framework.
+
+**[Browse the website →](https://artemnovichkov.github.io/awesome-swift-charts/)**
 
 ![Swift Charts](./src/assets/images/charts.png)
 
+</div>
+
 ## Contents
 
-- [Books](#books)
-- [WWDC Sessions](#wwdc-sessions)
-- [Articles](#articles)
-- [Videos](#videos)
-- [Examples](#examples)
-- [Tools](#tools)
+- [Books](#books) (1)
+- [WWDC Sessions](#wwdc-sessions) (7)
+- [Articles](#articles) (28)
+  - [Apple](#apple)
+  - [Nil Coalescing](#nil-coalescing)
+  - [Swift with Majid](#swift-with-majid)
+  - [Artem Novichkov](#artem-novichkov)
+  - [Create with Swift](#create-with-swift)
+- [Videos](#videos) (2)
+- [Examples](#examples) (5)
+- [Tools](#tools) (1)
 
 ## Books
 
@@ -25,13 +36,13 @@ In-depth guides for going beyond the basics.
 
 Talks from Apple engineers and designers, newest first.
 
-- [Bring Swift Charts to the third dimension](https://developer.apple.com/videos/play/wwdc2025/313) — WWDC25
-- [Swift Charts: Vectorized and function plots](https://developer.apple.com/videos/play/wwdc2024/10155/) — WWDC24
-- [Explore pie charts and interactivity in Swift Charts](https://developer.apple.com/videos/play/wwdc2023/10037/) — WWDC23
-- [Hello Swift Charts](https://developer.apple.com/videos/play/wwdc2022/10136/) — WWDC22
-- [Design an effective chart](https://developer.apple.com/videos/play/wwdc2022/110340/) — WWDC22
-- [Swift Charts: Raise the bar](https://developer.apple.com/videos/play/wwdc2022/10137/) — WWDC22
-- [Design app experiences with charts](https://developer.apple.com/videos/play/wwdc2022/110342/) — WWDC22
+- **WWDC25** · [Bring Swift Charts to the third dimension](https://developer.apple.com/videos/play/wwdc2025/313)
+- **WWDC24** · [Swift Charts: Vectorized and function plots](https://developer.apple.com/videos/play/wwdc2024/10155/)
+- **WWDC23** · [Explore pie charts and interactivity in Swift Charts](https://developer.apple.com/videos/play/wwdc2023/10037/)
+- **WWDC22** · [Hello Swift Charts](https://developer.apple.com/videos/play/wwdc2022/10136/)
+- **WWDC22** · [Design an effective chart](https://developer.apple.com/videos/play/wwdc2022/110340/)
+- **WWDC22** · [Swift Charts: Raise the bar](https://developer.apple.com/videos/play/wwdc2022/10137/)
+- **WWDC22** · [Design app experiences with charts](https://developer.apple.com/videos/play/wwdc2022/110342/)
 
 ## Articles
 
@@ -102,3 +113,12 @@ Sample code and open source projects to learn from.
 Assistants that help you write chart code.
 
 - [Apple Swift Charts Complete Code Expert](https://chatgpt.com/g/g-8U1iB3EIq-apple-swift-charts-complete-code-expert) — Custom GPT
+
+## Contributing
+
+Know a great resource? Pull requests are welcome.
+
+1. Add the link to [`src/contents/index.md`](src/contents/index.md) (the website) and to this README.
+2. Fetch link previews: `make previews`.
+3. Preview locally with [Toucan](https://github.com/toucansites/toucan): `make dev`, then `make serve`.
+4. Build the website into `docs/` before committing: `make dist`.
