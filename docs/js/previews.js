@@ -16,5 +16,12 @@ window.PREVIEWS = {
   "https://nilcoalescing.com/blog/UsingMeasurementsFromFoundationAsValuesInSwiftCharts": "https://nilcoalescing.com/static/blog/UsingMeasurementsFromFoundationAsValuesInSwiftCharts/banner.MzUooHKl-_QQvSRV1g1ekNfNUykNoiWBU6xtQTHPHw8.png",
   "https://nilcoalescing.com/blog/FillBarMarksWithGradient": "https://nilcoalescing.com/static/blog/FillBarMarksWithGradient/banner.3eypI4CLWdzr8uu5v9Xdx0iHN-j0zcZ9VqQ3uXpL8F8.png",
   "https://nilcoalescing.com/blog/AreaChartWithADimmingLayer": "https://nilcoalescing.com/static/blog/AreaChartWithADimmingLayer/banner.ZNa6p_AymziIiXl6Gom42IMcZGBLjtEujTvTtdHVGIc.png",
-  "https://nilcoalescing.com/blog/ChartAnnotationsOnHover": "https://nilcoalescing.com/static/blog/ChartAnnotationsOnHover/banner.Or-lTPMfnH1oGCkryPhDiMofZQ8UuB77ZLvDxtEJa4U.png"
+  "https://nilcoalescing.com/blog/ChartAnnotationsOnHover": "https://nilcoalescing.com/static/blog/ChartAnnotationsOnHover/banner.Or-lTPMfnH1oGCkryPhDiMofZQ8UuB77ZLvDxtEJa4U.png",
+  "https://artemnovichkov.com/blog/cook-up-3d-charts-with-swift-charts": "https://artemnovichkov.com/images/cook-up-3d-charts-with-swift-charts/cover.png",
+  "https://artemnovichkov.com/blog/drawing-maps-with-swift-charts": "https://artemnovichkov.com/images/drawing-maps-with-swift-charts/cover.png",
+  "https://artemnovichkov.com/blog/github-contribution-graph-swift-charts": "https://artemnovichkov.com/images/github-contribution-graph-swift-charts/cover.png",
+  "https://www.createwithswift.com/using-swift-charts-on-a-swiftui-app/": "https://storage.ghost.io/c/74/1b/741b667e-bca4-4d4a-a324-2feaee7a1038/content/images/2024/03/createwithswift.com-using-swift-charts-on-a-swiftui-app.gif",
+  "https://www.createwithswift.com/customizing-a-chart-in-swift-charts/": "https://storage.ghost.io/c/74/1b/741b667e-bca4-4d4a-a324-2feaee7a1038/content/images/size/w1200/2024/03/createwithswift.com-customizing-a-chart-in-swift-charts.jpeg",
+  "https://www.createwithswift.com/making-charts-accessible-with-swift-charts/": "https://storage.ghost.io/c/74/1b/741b667e-bca4-4d4a-a324-2feaee7a1038/content/images/size/w1200/2024/10/createwithswift.com-making-charts-accessible-with-swift-charts.png",
+  "https://www.createwithswift.com/plotting-math-equation-using-swift-charts/": "https://storage.ghost.io/c/74/1b/741b667e-bca4-4d4a-a324-2feaee7a1038/content/images/size/w1200/2024/10/createwithswift.com-plotting-math-equation-using-swift-charts.png"
 };

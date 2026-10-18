@@ -67,6 +67,19 @@ Tutorials and deep dives from the community.
 - [Mastering charts in SwiftUI. Mark styling.](https://swiftwithmajid.com/2023/01/18/mastering-charts-in-swiftui-mark-styling/)
 - [Mastering charts in SwiftUI. Basics.](https://swiftwithmajid.com/2023/01/10/mastering-charts-in-swiftui-basics/)
 
+### Artem Novichkov
+
+- [Cook up 3D charts with Swift Charts](https://artemnovichkov.com/blog/cook-up-3d-charts-with-swift-charts)
+- [Drawing maps with Swift Charts](https://artemnovichkov.com/blog/drawing-maps-with-swift-charts)
+- [Github contribution graph with Swift Charts](https://artemnovichkov.com/blog/github-contribution-graph-swift-charts)
+
+### Create with Swift
+
+- [Using Swift Charts on a SwiftUI app](https://www.createwithswift.com/using-swift-charts-on-a-swiftui-app/)
+- [Customizing a Chart in Swift Charts](https://www.createwithswift.com/customizing-a-chart-in-swift-charts/)
+- [Making charts accessible with Swift Charts](https://www.createwithswift.com/making-charts-accessible-with-swift-charts/)
+- [Plotting math equations using Swift Charts](https://www.createwithswift.com/plotting-math-equation-using-swift-charts/)
+
 ## Videos
 
 Walkthroughs and experiments worth watching.
