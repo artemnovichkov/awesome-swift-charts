@@ -1,4 +1,18 @@
 {{<html}}
+{{$head}}<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "{{site.title}}",
+        "url": "{{page.permalink}}",
+        "description": "{{page.description}}",
+        "author": {
+            "@type": "Person",
+            "name": "Artem Novichkov",
+            "url": "https://github.com/artemnovichkov"
+        }
+    }
+    </script>{{/head}}
 {{$main}}
 
 <div id="home" class="content">

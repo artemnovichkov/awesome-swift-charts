@@ -9,20 +9,31 @@
 
     <title>{{page.title}}</title>
     <meta name="description" content="{{page.description}}">
+    <link rel="canonical" href="{{page.permalink}}">
 
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{site.title}}">
     <meta property="og:url" content="{{page.permalink}}">
     <meta property="og:title" content="{{page.title}}">
     <meta property="og:description" content="{{page.description}}">
-    <meta property="og:image" content="{{site.baseUrl}}/images/charts.png">
+    <meta property="og:image" content="{{site.baseUrl}}/images/og.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Swift Charts line, bar and scatter plot examples">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{page.title}}">
     <meta name="twitter:description" content="{{page.description}}">
-    <meta name="twitter:image" content="{{site.baseUrl}}/images/charts.png">
+    <meta name="twitter:image" content="{{site.baseUrl}}/images/og.png">
+    <meta name="twitter:image:alt" content="Swift Charts line, bar and scatter plot examples">
 
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230071e3'/><rect x='7' y='16' width='4' height='9' rx='1.5' fill='white'/><rect x='14' y='8' width='4' height='17' rx='1.5' fill='white'/><rect x='21' y='12' width='4' height='13' rx='1.5' fill='white'/></svg>">
+    <link rel="icon" href="{{site.baseUrl}}/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="{{site.baseUrl}}/images/favicon-96.png" type="image/png" sizes="96x96">
+    <link rel="apple-touch-icon" href="{{site.baseUrl}}/images/apple-touch-icon.png">
     <link rel="stylesheet" href="{{site.baseUrl}}/css/theme.css">
     {{#page.css}}<link rel="stylesheet" href="{{.}}">{{/page.css}}
+
+    {{$head}}{{/head}}
 
     <meta name="google-site-verification" content="BbVI6OBRFQqWkAWdfZIUj5ecQRjj4DHLaJ7v0Iyp4jQ" />
 </head>

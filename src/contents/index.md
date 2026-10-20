@@ -1,6 +1,6 @@
 ---
 slug: ""
-title: "Awesome Swift Charts"
+title: "Awesome Swift Charts — tutorials, WWDC sessions, books & sample code"
 description: "A hand-curated list of Swift Charts resources: WWDC sessions, books, articles, videos and sample code."
 template: pages.home
 ---
