@@ -22,7 +22,7 @@ Hand-picked talks, articles, books and sample code for [Swift Charts](https://de
   - [Swift with Majid](#swift-with-majid)
   - [Artem Novichkov](#artem-novichkov)
   - [Create with Swift](#create-with-swift)
-- [Videos](#videos) (2)
+- [Videos](#videos) (5)
 - [Examples](#examples) (5)
 - [Tools](#tools) (1)
 
@@ -97,6 +97,9 @@ Walkthroughs and experiments worth watching.
 
 - [Swift Charts - Beyond the basics](https://www.youtube.com/watch?v=r22o9ZupNVk)
 - [How FAST is Swift Charts? Can it handle a sound visualizer? - SwiftUI - iOS 16](https://www.youtube.com/watch?v=8kX1CX-ujlA)
+- [Animating Swift Charts - Xcode 15](https://www.youtube.com/watch?v=rMuZ_ODipqQ)
+- [Build Swift Charts Stocks App Part 4 - Chart View - SwiftUI iOS 16 App](https://www.youtube.com/watch?v=uI3Q9qyIs-Y)
+- [Apple Engineer Creates a Budget Widget LIVE (Swift Charts)](https://www.youtube.com/watch?v=xgVSmJH2l6o)
 
 ## Examples
 
